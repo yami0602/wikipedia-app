@@ -1,0 +1,56 @@
+.container {
+   
+    padding: 0;
+    justify-content: center;
+}
+
+#searchContainer{
+    
+    width: 40%;
+    height: auto;
+    margin-left: 250px;
+    margin-bottom: 50px;
+}
+
+.form-control {
+    border: 3px solid gray;
+    margin-top: 42px;
+}
+
+.button {
+    margin: 0;
+}
+
+#button_cont{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 100%;
+}
+
+#blog {
+    position: relative;
+    width: -50px;   
+    
+}
+.lists {
+    border: 2px inset grey;
+    border-radius: 50em;
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Droid Serif', serif;
+    padding-right: 10px;
+    padding-left: 15px;
+    padding-top: 15px;
+    margin-bottom: 25px;
+    margin-right: 55px;
+    margin-left: 65px;
+}
+ .form-control {
+     margin-left: 175px;
+     margin-top: 15px 
+ }
+
+ #output {
+     list-style-type: none;
+ }
